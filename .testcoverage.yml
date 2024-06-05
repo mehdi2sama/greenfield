@@ -10,7 +10,7 @@ local-prefix: "github.com/bnb-chain/greenfield"
 threshold:
   # (optional; default 0) 
   # The minimum coverage that each file should have
-  file: 80
+  file: 99
 
   # (optional; default 0) 
   # The minimum coverage that each package should have
